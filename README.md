@@ -60,6 +60,7 @@ Create project report
 Build presentation deck using Gamma AI
 
 👨‍💻 About the Author
+
 Hey,I'm Jeet Raval,Aspiring Data & Business Analyst passionate about turning data into meaningful insights and business decisions.
 
-💼 LinkedIn: [linkdin](www.linkedin.com/in/jeet-raval-48bb33426)
+💼 LinkedIn: www.linkedin.com/in/jeet-raval-48bb33426
